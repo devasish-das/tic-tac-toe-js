@@ -1,11 +1,11 @@
 Tic Tac Toe Game
 
 Built with:
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript.
 
 Features:
-Two player mode
-Winner detection
-Reset button
+Two player mode,
+Winner detection,
+Reset button.
